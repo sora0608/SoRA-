@@ -62,17 +62,17 @@ python proxyPool.py server
 ![从机爬虫程序](https://github.com/sora0608/SoRA-/blob/master/Pic/slave.jpg)
 ## 4.2 主机数据库
 ### Redis数据库缓存URL
-![Redis数据库缓存URL](https://github.com/CoderDon/Crawler/raw/main/Pic/redis_data.jpg)
+![Redis数据库缓存URL](https://github.com/sora0608/SoRA-/blob/master/Pic/redis_data.jpg)
 ### Redis缓存代理IPs
-![Redis缓存代理IPs](https://github.com/CoderDon/Crawler/raw/main/Pic/proxy.jpg)
+![Redis缓存代理IPs](https://github.com/sora0608/SoRA-/blob/master/Pic/proxy.jpg)
 ### MongoDB数据库
-![MongoDB数据库](https://github.com/CoderDon/Crawler/raw/main/Pic/mongoDB_data.jpg)
+![MongoDB数据库](https://github.com/sora0608/SoRA-/blob/master/Pic/mongoDB_data.jpg)
 ## 4.3 可视化
 ### 首页
-![首页](https://github.com/CoderDon/Crawler/raw/main/Pic/index.jpg)
+![首页](https://github.com/sora0608/SoRA-/blob/master/Pic/index.jpg)
 ### 电影
-![电影](https://github.com/CoderDon/Crawler/raw/main/Pic/movies.jpg)
+![电影](https://github.com/sora0608/SoRA-/blob/master/Pic/movies.jpg)
 ### 评分
-![评分](https://github.com/CoderDon/Crawler/raw/main/Pic/score.jpg)
+![评分](https://github.com/sora0608/SoRA-/blob/master/Pic/score.jpg)
 ### 词云
-![词云](https://github.com/CoderDon/Crawler/raw/main/Pic/words.jpg)
+![词云](https://github.com/sora0608/SoRA-/blob/master/Pic/words.jpg)
