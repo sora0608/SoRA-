@@ -59,7 +59,7 @@ python proxyPool.py server
 # 4. 运行截图
 ## 4.1 从机运行
 ### 从机爬虫程序
-![从机爬虫程序](https://github.com/CoderDon/Crawler/raw/main/Pic/slave.jpg)
+![从机爬虫程序](https://github.com/sora0608/SoRA-/blob/master/Pic/slave.jpg)
 ## 4.2 主机数据库
 ### Redis数据库缓存URL
 ![Redis数据库缓存URL](https://github.com/CoderDon/Crawler/raw/main/Pic/redis_data.jpg)
