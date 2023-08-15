@@ -31,6 +31,7 @@ buy|商品购买
 cart|将商品加入购物车
 fav|收藏商品
 
-用户行为分析思维导图：
+用户行为分析思维导图
+![用户行为分析思维导图](https://github.com/sora0608/SoRA-/blob/main/%E7%94%A8%E6%88%B7%E8%A1%8C%E4%B8%BA%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90.png)
 
-​
+内附CSDN链接地址查看详情：http://t.csdn.cn/BJ7dj​
